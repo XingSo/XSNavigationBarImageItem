@@ -1,0 +1,5 @@
+dependencies: \
+  /Users/FlyingBird/Documents/XingSoGitHub/XSNavigationBarImageItem/XSNavigationBarImageItemDemo/XSNavigationBarImageItemDemo/AppDelegate.m \
+  /Users/FlyingBird/Documents/XingSoGitHub/XSNavigationBarImageItem/XSNavigationBarImageItemDemo/XSNavigationBarImageItemDemo/AppDelegate.h \
+  /Users/FlyingBird/Documents/XingSoGitHub/XSNavigationBarImageItem/XSNavigationBarImageItemDemo/XSNavigationBarImageItemDemo/ViewController.h \
+  /Users/FlyingBird/Documents/XingSoGitHub/XSNavigationBarImageItem/XSNavigationBarImageItemDemo/XSNavigationBarImageItemDemo/XSNavigationBarImageItem.h
