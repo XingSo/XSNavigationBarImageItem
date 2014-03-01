@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3A98F20A-EC97-4C7E-8071-35585B583C64</string>
+	<key>IDESourceControlProjectName</key>
+	<string>XSNavigationBarImageItemDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E6BC8573-0DA7-4BB1-A182-FD48964D2DDF</key>
+		<string>https://github.com/XingSo/XSNavigationBarImageItem.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>XSNavigationBarImageItemDemo/XSNavigationBarImageItemDemo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E6BC8573-0DA7-4BB1-A182-FD48964D2DDF</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/XingSo/XSNavigationBarImageItem.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E6BC8573-0DA7-4BB1-A182-FD48964D2DDF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E6BC8573-0DA7-4BB1-A182-FD48964D2DDF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>XSNavigationBarImageItem</string>
+		</dict>
+	</array>
+</dict>
+</plist>
