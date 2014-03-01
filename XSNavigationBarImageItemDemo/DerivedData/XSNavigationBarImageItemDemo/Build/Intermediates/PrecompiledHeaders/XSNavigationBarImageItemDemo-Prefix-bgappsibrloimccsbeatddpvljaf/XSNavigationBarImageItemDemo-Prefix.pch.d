@@ -1,2 +1,0 @@
-dependencies: \
-  /Users/FlyingBird/Documents/XingSoGitHub/XSNavigationBarImageItem/XSNavigationBarImageItemDemo/XSNavigationBarImageItemDemo/XSNavigationBarImageItemDemo-Prefix.pch
